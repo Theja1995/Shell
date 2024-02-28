@@ -1,5 +1,7 @@
 #!/bin/bash
-echo "sai: Namaste anna , manchigunnava"
-echo "Charan: Manchigunna le thi"
-echo "sai: Yendhi itlocchinav , em katha"
-echo "charan: Ye oke vacchina."
+S=sai
+C=charan
+echo "$S: Namaste $C anna , manchigunnava"
+echo "$C: Manchigunna le thi"
+echo "$S: Yendhi itlocchinav , em katha"
+echo "$C: Ye oke vacchina."
