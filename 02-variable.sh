@@ -1,6 +1,6 @@
 #!/bin/bash
-S=ravi
-C=subbu
+S=$2
+C=$3
 
 echo "$S: Namaste $C anna , manchigunnava"
 echo "$C: Manchigunna le thi"
